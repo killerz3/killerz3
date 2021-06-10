@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @killerz3
+- 👀 I’m interested in app dev, web dev, ml and ai.
+- 🌱 I’m currently learning computer science.
+- 📫 How to reach me - shubhchaudhary1203@gmail.com

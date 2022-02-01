@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%230BF7B6&size=48&duration=5007&width=443&height=80&lines=+Hi+%F0%9F%91%8B%2C+I'm+Shubhveer+Singh+Chaudhary)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%230BF7B6&size=97&duration=5007&multiline=true&width=1500&height=500&lines=+Hi+%F0%9F%91%8B%2C+I'm+Shubhveer+;++++++++Singh+Chaudhary)](https://git.io/typing-svg)
 <h3 align="center">A guy learning stuff.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=killerz3&label=Profile%20views&color=0e75b6&style=flat" alt="killerz3" /> </p>

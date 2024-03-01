@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Engineering Project**
 
-- 🌱 I’m currently learning **Web-dev,Native App dev,flutter,NextJS**
+- 🌱 I’m currently learning **ML/AI**
 
 - 👯 I’m looking to collaborate on **WEBDEV**
 

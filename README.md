@@ -27,4 +27,3 @@
 
 <center><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=killerz3&show_icons=true&locale=en&layout=compact&theme=rose_pine" alt="killerz3" /></ceneter>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=killerz3&show_icons=true&locale=en&theme=rose_pine" alt="killerz3" /></p>

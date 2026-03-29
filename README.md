@@ -5,12 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/killer__z3" target="blank"><img src="https://img.shields.io/twitter/follow/killer__z3?logo=twitter&style=for-the-badge" alt="killer__z3" /></a> </p>
 
-- 🔭 I’m currently working on **Engineering Project**
-
-- 🌱 I’m currently learning **ML/AI**
-
-- 👯 I’m looking to collaborate on **WEBDEV**
-
 - 📫 How to reach me **shubhchaudhary1203@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
